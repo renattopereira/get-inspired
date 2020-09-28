@@ -44,23 +44,10 @@ img {
             align-self: center;
             opacity: 20%;
 
-            svg {
-                display: block;
-                height: $tamanho;
-                width: $tamanho;
-            }
 
             &:hover {
                 opacity: 90%;
             }
-        }
-
-        .author {
-            color: #4d4d4d;
-            font-family: Verdana, Geneva, Tahoma, sans-serif;
-            margin-bottom: .3rem;
-            margin-left: .8rem;
-            font-size: 1em;
         }
 
         figcaption {
